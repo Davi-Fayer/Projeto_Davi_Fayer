@@ -18,6 +18,10 @@ public class D {
         this.D2 = D2;
     }
 
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
+
     public void MD1() {
         System.out.println("MD1");
     }
